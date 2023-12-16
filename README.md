@@ -7,4 +7,11 @@ My name is Jairo Pixabaj, I grew up in Brooklyn, NY since 2008. One cool fact ab
 
 ---
 ###### _**schedule**_
-
+1. Global
+2. Spanish
+3. Lunch
+4. Chemistry
+5. Sep
+6. English
+7. Math
+8. Gym
