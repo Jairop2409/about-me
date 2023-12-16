@@ -15,3 +15,9 @@ My name is Jairo Pixabaj, I grew up in Brooklyn, NY since 2008. One cool fact ab
 6. English
 7. Math
 8. Gym
+
+hello.
+my name is.
+jairo.
+
+
